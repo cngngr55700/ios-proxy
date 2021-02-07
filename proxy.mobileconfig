@@ -16,9 +16,9 @@
                                     <key>apn</key>
                                     <string>internet</string>
                                     <key>proxy</key>
-                                    <string>139.162.11.25</string>
+                                    <string>127.0.0.1</string>
                                     <key>proxyPort</key>
-                                    <integer>8888</integer>
+                                    <integer>80</integer>
                                 </dict>
                             </array>
                         </dict>
